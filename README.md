@@ -68,4 +68,4 @@ Welcome to **Pack Your Bag**, a simple and effective Android application that he
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pack-your-bag.git
+   git clone [https://github.com/your-username/pack-your-bag.git](https://github.com/rakibhossain01/Pack-Your-Bag.git)
