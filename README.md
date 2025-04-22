@@ -6,10 +6,10 @@ Welcome to **Pack Your Bag**, a simple and effective Android application that he
 
 ## 📱 App Features
 
-### 🚀 Splash Screen
+### Splash Screen
 - Smooth splash screen with a 1.5-second timer.
 
-### 🏠 Home Dashboard
+###  Home Dashboard
 - Categorized packing sections:
   - Basic Needs
   - Clothing
@@ -21,37 +21,29 @@ Welcome to **Pack Your Bag**, a simple and effective Android application that he
   - Car Supplies
   - My List (Custom)
 
-### ✅ Item Management
+### Item Management
 - Select/deselect items (Packed/Unpacked).
 - Add new items in any category.
 - Delete individual items with confirmation popups.
 
-### 📋 My Selections
+###  My Selections
 - View all selected (packed) items across all categories.
 - Toggle any item to unselect it directly from this section.
 
-### 🛠 My List (Custom Items)
+###  My List (Custom Items)
 - Add and manage your own packing list items.
 - Custom items also appear in "My Selections".
 
-### 🔄 Reset & Delete Options
+###  Reset & Delete Options
 - **Reset to Default**: Clears checks and removes custom items from selected category.
 - **Delete Default Data**: Deletes only default items from the selected category.
 
-### 📤 Exit Functionalities
+###  Exit Functionalities
 - Double-back press to exit the app.
 - Dedicated Exit button in the menu.
 
-### 📇 About Us
-- Links to:
-  - YouTube
-  - Instagram
-  - Twitter
-- Email support for custom app requests and contact.
 
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language**: Java/Kotlin
 - **IDE**: Android Studio
@@ -59,24 +51,20 @@ Welcome to **Pack Your Bag**, a simple and effective Android application that he
 - **Storage**: SQLite (Local Database), SharedPreferences
 - **Image Handling**: Glide/Picasso (optional)
 
----
 
-## 👤 Target Audience
+## Target Audience
 
 - Frequent Travelers
 - Remote Workers
 - Event Organizers
 - Students & Professionals
 
----
 
-## 📸 Screenshots
+##  Screenshots
 
-> *You can add screenshots here after uploading them to the `/assets` or `/screenshots` folder.*
+----------------------
 
----
-
-## 📦 Installation
+##  Installation
 
 1. Clone this repository:
    ```bash
